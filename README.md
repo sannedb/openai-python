@@ -2,13 +2,13 @@
 
 ## Project chosen
 
-Name: <TODO>
+Name: OpenAI
 
-URL: <TODO>
+URL: https://github.com/openai/openai-python
 
-Number of lines of code and the tool used to count it: <TODO>
+Number of lines of code and the tool used to count it: 41194, calculated by Lizard
 
-Programming language: <TODO>
+Programming language: Python
 
 ## Coverage measurement
 
